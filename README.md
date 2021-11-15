@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davon
 - 👀 I’m interested in classical guitar, self improvement and software development.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning everything related to front end development.
 
 
 <!---
